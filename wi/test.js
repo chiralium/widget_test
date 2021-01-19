@@ -7,7 +7,7 @@ document.addEventListener("DOMContentLoaded",
 
         let styles = document.createElement('link');
         styles.setAttribute('rel', 'stylesheet');
-        styles.setAttribute('href', 'http://45.156.21.187/wi/style.css');
+        styles.setAttribute('href', 'https://cdn.jsdelivr.net/gh/chiralium/widget_test/wi/style.css');
         document.head.appendChild(styles);
 
         let appt = document.createElement('div');
