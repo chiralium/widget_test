@@ -1,0 +1,36 @@
+html, body, body * {
+    margin: 0;
+    padding: 0;
+}
+
+#app {
+    border: 2px solid black;
+    width: 400px;
+    height: 200px;
+}
+
+.main-label {
+    font-size: 20pt;
+}
+
+.temperature {
+    margin-top: 25px;
+    width: 100%;
+    display: flex;
+    border-top: 1px solid red;
+}
+
+.temp-pic {
+    width: 200px;
+    height: 80px;
+}
+
+.temp-value {
+    width: 200px;
+    height: 80px;
+    font-size: 16pt;
+}
+
+.temp-value > span {
+    font-size: 12pt;
+}

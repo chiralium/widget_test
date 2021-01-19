@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="e3382fe4-6a7a-4907-9739-eeaf796b98dd" name="redrum">
+        <fileTransfer accessType="SFTP" host="45.156.21.187" port="22" sshConfigId="fb640f92-7491-47c9-b4c8-73491ea1a095" sshConfig="root@45.156.21.187:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
